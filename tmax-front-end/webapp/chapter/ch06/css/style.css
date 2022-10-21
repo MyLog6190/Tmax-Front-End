@@ -1,0 +1,14 @@
+@charset "UTF-8";
+h1{
+	display:inline-block;/* 블럭요소를 인라인 */
+	background-color:black;
+	padding: 10px;
+	font-size: 1.6em;
+	color:white;
+}
+		
+ul li {
+	list-style: none;
+	color:blue;
+	font-size: 1.4em;
+}
